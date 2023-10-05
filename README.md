@@ -2,16 +2,27 @@
 <br>
 
 <br>
-<h3 align="center">Futuro Desenvolvedor de Software 🌟.</h3>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-<br> 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=800&size=24&duration=4000&pause=1000&color=E6DB2B&background=FFEF3200&vCenter=true&width=435&lines=Futuro+Desenvolvedor+de+Software;Sempre+Aprendendo+Coisas+Novas;Estudante+na+Cubos+Academy;Entusiasta+da+Tecnologia+"></a>
 
 
 <br>
+
+<br>
+
+<br>
+
+<br> 
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<br>
+
+
+
+
 
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web e outras linguagens de programação.
   
@@ -54,6 +65,20 @@
       alt="react" width="40" height="40" /> </p>
 
 <br>
+
+
+<h3 align="left">IDEs:</h3>
+<p align="left">  <a href="https://code.visualstudio.com/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+      alt="vscode" width="40" height="40" /> </a> <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
+      alt="react" width="40" height="40" /> </p> 
+
+
+
+<br>
+
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
