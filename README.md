@@ -54,14 +54,14 @@
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="javascript" width="40" height="40" /> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg"
+      alt="postGreeSQL" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg"
       alt="nodejs" width="40" height="40" /> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
       alt="react" width="40" height="40" /> </p>
 
 <br>
