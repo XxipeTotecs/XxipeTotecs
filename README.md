@@ -80,16 +80,15 @@
 <br>
 
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=XxipeTotecs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="XxipeTotecs" 
-    bg_color=#808080/></p>
+<h3 align="center">📈 Git Status</h3>
+
+<div display="flex" align="center" justify-content="space-around">
+  <img margin-left="5px" height="150em" src="https://github-readme-stats.vercel.app/api?username=XxipeTotecs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>        
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XxipeTotecs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>  
+</div>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XxipeTotecs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="XxipeTotecs" /></p>
 
 <br>
 
